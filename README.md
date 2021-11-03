@@ -12,4 +12,4 @@ or by [e-mail](mailto:sparton.alexandre@gmail.com), I will be honored to awnser 
 
 ### 👉 Find me on the internet
 [![Twitter](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/twitter.png)](https://twitter.com/Beyl_dev)
-[![LinkedIn](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/linkedin.png)](https://www.linkedin.com/in/alexandre-sparton-08aa42206/) 
+[![LinkedIn](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/linkedin.png)](https://www.linkedin.com/in/alexandre-sparton/) 
