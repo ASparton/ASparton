@@ -1,4 +1,4 @@
-## Hello world ! Welcome to my GitHub profile ! 👋
+## Hello world ! Welcome to my Github profile ! 👋
 
 I am a french IT student and a passionate fullstack and game developer. I aim to work on my creativity and my skills to create fluid and pleasant user experiences. Here you will be able to find some of the projects I have worked on or that I am currently developing.
 
