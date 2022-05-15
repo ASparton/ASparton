@@ -8,18 +8,18 @@ Anything you want to tell me about ? Don't hesitate to shoot me an email here: [
 ### 👉 Technologies & Tools I am working on these days
 <div>
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="Javascript logo" width="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React logo" width="75"/>
-  <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js logo" width="75"/>
+  <img src="https://img.icons8.com/color/240/000000/typescript.png" alt="Typescript logo" width="75"/>
+  <img src="https://img.icons8.com/color/240/000000/sass-avatar.png" alt="Sass logo" width="75"/>
 </div>
 <div>
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python logo" width="75"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-512.png" alt="Postgresql logo" width="75"/>
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker logo" width="75"/>
+  <img src="https://img.icons8.com/office/240/000000/react.png" alt="React.js logo" width="75"/>
+  <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="Next.js logo" width="75"/>
+  <img src="https://img.icons8.com/color/240/000000/firebase.png" alt="Firebase logo" width="75"/>
 </div>
 <div>
-  <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="C# logo" width="75"/>
-  <img src="https://icon-library.com/images/unity-icon/unity-icon-5.jpg" alt="Unity logo" width="75"/>
-  <img src="https://user-images.githubusercontent.com/36481442/100390458-79d5e300-3041-11eb-9a3a-43074ee52ad5.png" alt="Godot logo" width="75"/>
+  <img src="https://img.icons8.com/color/240/000000/postgreesql.png" alt="Postgresql logo" width="75"/>
+  <img src="https://img.icons8.com/fluency/240/000000/python.png" alt="Python logo" width="75"/>
+  <img src="https://img.icons8.com/color/240/000000/tensorflow.png" alt="Tensorflow logo" width="75"/>
 </div>
 
 ### 👉 You can also find me here
