@@ -17,7 +17,7 @@ I am Alexandre, a French IT student and a passionate software developer, current
 <div>
   <img src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" alt="MongoDB logo" width="75"/>
   <img src="https://img.icons8.com/color/240/000000/postgreesql.png" alt="Postgresql logo" width="75"/>
-  <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" alt="Postgresql logo" width="75"/>
+  <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS logo" width="75"/>
 </div>
 
 ### 👉 You can also find me here
