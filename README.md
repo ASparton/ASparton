@@ -1,6 +1,6 @@
 ## Hello world! Welcome to my Github profile! 👋
 
-I am Alexandre, a french IT student and a passionate software developer, currently specilized in full stack Javascript web applications. Here you will be able to find some of the projects I have worked on or that I am currently developing.
+I am Alexandre, a French IT student and a passionate software developer, currently specilized in full stack JavaScript web applications. Here you will be able to find some of the projects I have worked on or that I am currently developing.
 #### You can also take a look at my website here : https://www.asparton.com/
 
 ### 👉 Technologies & Tools I am working with these days
