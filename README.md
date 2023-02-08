@@ -1,6 +1,6 @@
 # Hello world! Welcome to my Github profile! 👋
 
-I am Alexandre, a French IT student and a passionate software developer, currently specilized in web applications, data mining and data flows management.
+I am Alexandre, a French IT student and a passionate software developer, currently specilized in web applications, data extraction and data flows management.
 #### Want to learn a bit more ? <a href="https://www.asparton.com/">Take a look at my website!</a>
 
 ## My main skill set 🧠
