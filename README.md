@@ -23,7 +23,7 @@ I am Alexandre, a French IT student and a passionate software developer, current
     <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node JS logo" width="60" />
     <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" alt="Jest logo" width="60" />
     <img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" alt="Prisma logo" width="60"/>
-    <img src="https://repository-images.githubusercontent.com/529502/dab2bd00-0ed2-11eb-8588-5e10679ace4d" alt="Scrapy logo" width="130"/>
+    <img src="https://i0.wp.com/phocode.com/wp-content/uploads/2019/11/scrapyLogo.png?fit=300%2C300&ssl=1" alt="Scrapy logo" width="60"/>
     <img src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" alt="Selenium logo" width="60"/>
   </div>
   &nbsp;
